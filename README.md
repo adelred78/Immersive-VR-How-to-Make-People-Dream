@@ -139,3 +139,12 @@ Projet académique VR – 2026
 Plateforme : Delightex
 
 https://edu.delightex.com/ELG-DGN
+
+## Membres du groupe :
+
+REDJEMI Adel
+DJIONGO DONTSI Dany
+DI RENZO Julie
+MALBLANC Joaquim
+RABIAN Nicolas
+FRERE Adam

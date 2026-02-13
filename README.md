@@ -137,3 +137,5 @@ Compétences mises en avant :
 
 Projet académique VR – 2026  
 Plateforme : Delightex
+
+https://edu.delightex.com/ELG-DGN
